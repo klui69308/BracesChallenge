@@ -1,0 +1,7 @@
+D:\Education\Claim Academy\Special\BracesValid\BracesValid\bin\Debug\BracesValid.exe.config
+D:\Education\Claim Academy\Special\BracesValid\BracesValid\bin\Debug\BracesValid.exe
+D:\Education\Claim Academy\Special\BracesValid\BracesValid\bin\Debug\BracesValid.pdb
+D:\Education\Claim Academy\Special\BracesValid\BracesValid\obj\Debug\BracesValid.csprojAssemblyReference.cache
+D:\Education\Claim Academy\Special\BracesValid\BracesValid\obj\Debug\BracesValid.csproj.CoreCompileInputs.cache
+D:\Education\Claim Academy\Special\BracesValid\BracesValid\obj\Debug\BracesValid.exe
+D:\Education\Claim Academy\Special\BracesValid\BracesValid\obj\Debug\BracesValid.pdb
